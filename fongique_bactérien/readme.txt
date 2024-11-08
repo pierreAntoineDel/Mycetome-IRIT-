@@ -1,0 +1,1 @@
+Ici sont archivés les fichiers de classification pour diférencier mycétomes fongiques de bactériens.
